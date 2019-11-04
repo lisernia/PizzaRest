@@ -1,0 +1,58 @@
+[
+ {
+  "id": 1,
+  "userTakeAway": true,
+  "userAdress": "Mirandilia 2321",
+  "userHouseType": "PH",
+  "userTimbre": "3BN",
+  "userName": "Jirayja Sensei",
+  "userNumber": "32145675",
+  "userPizzas": "Hawaiana",
+  "userSizePizzas": "Mediana",
+  "userDrink": true,
+  "userTypeDrink": "Fanta",
+  "userRegularClient": true,
+  "userEmpanadas": [
+   " Capresse",
+   " Roquefort",
+   " Carne"
+  ],
+  "fecha": "11/1/2019",
+  "hora": "1:34:01 PM",
+  "total": 660,
+  "descuento": 5
+ },
+ {
+  "id": 2,
+  "userTakeAway": false,
+  "userName": "Marcelo Ignacio Perez",
+  "userNumber": "32465342",
+  "userPizzas": "Cancha",
+  "userSizePizzas": "Grande",
+  "userDrink": true,
+  "userTypeDrink": "Agua",
+  "userRegularClient": true,
+  "userEmpanadas": [
+   " Jamon y Queso",
+   " Capresse"
+  ],
+  "fecha": "11/1/2019",
+  "hora": "1:37:19 PM",
+  "total": 730,
+  "descuento": 8
+ },
+ {
+  "id": 3,
+  "userTakeAway": false,
+  "userName": "asdasd sdf",
+  "userNumber": "12341234",
+  "userPizzas": "Muzzarella",
+  "userSizePizzas": "Grande",
+  "userDrink": false,
+  "userRegularClient": false,
+  "fecha": "11/4/2019",
+  "hora": "3:53:17 PM",
+  "total": 650,
+  "descuento": 0
+ }
+]
